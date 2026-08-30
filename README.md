@@ -437,13 +437,13 @@ Through this project, I learned how to:
 
 # 👨💻 Author
 
-**Saurav Kumar**
+**Gurajapu Vinay Teja**
 
-**College:** Raipur Institude of techonology (chhatishgarh)
+**College:** Sathyabama University (Chennai)
 
 **Branch:** CSE
 
-**Email:** [sonukumarteg245@gmail.com](mailto:sonukumarteg245@gmail.com)
+**Email:** [Vinayteja8885@gmail.com](mailto:vinayteja8885@gmail.com)
 
 **Deployment Date:** 09 July 2026
 
